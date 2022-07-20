@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.0215976b.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.0215976b.js.map": "/static/js/main.0215976b.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/arielpodesta/static/css/main.02439012.chunk.css",
+    "main.js": "/arielpodesta/static/js/main.50d98242.chunk.js",
+    "main.js.map": "/arielpodesta/static/js/main.50d98242.chunk.js.map",
+    "runtime-main.js": "/arielpodesta/static/js/runtime-main.2d07b792.js",
+    "runtime-main.js.map": "/arielpodesta/static/js/runtime-main.2d07b792.js.map",
+    "static/js/2.e4fd4e8e.chunk.js": "/arielpodesta/static/js/2.e4fd4e8e.chunk.js",
+    "static/js/2.e4fd4e8e.chunk.js.map": "/arielpodesta/static/js/2.e4fd4e8e.chunk.js.map",
+    "index.html": "/arielpodesta/index.html",
+    "precache-manifest.31828ee89b58252c203ab2a96a970c6d.js": "/arielpodesta/precache-manifest.31828ee89b58252c203ab2a96a970c6d.js",
+    "service-worker.js": "/arielpodesta/service-worker.js",
+    "static/css/main.02439012.chunk.css.map": "/arielpodesta/static/css/main.02439012.chunk.css.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.0215976b.js"
+    "static/js/runtime-main.2d07b792.js",
+    "static/js/2.e4fd4e8e.chunk.js",
+    "static/css/main.02439012.chunk.css",
+    "static/js/main.50d98242.chunk.js"
   ]
 }
